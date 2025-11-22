@@ -20,9 +20,9 @@ that tries to find as much servers as it can.
 ## ✨ Features
 - ⏰ Scans a large number of servers in a short time
 - 📝 Supported protocols:
- - Minecraft **Ping** protocol
- - Minecraft **Query** protocol
- - Minecraft **Join** protocol
+  - Minecraft **Ping** protocol
+  - Minecraft **Query** protocol
+  - Minecraft **Join** protocol
 - 🔷 You can controll the server seeker with a Discord bot
 - 🔥 Easy to install and configure
 - 💾 Saves data in a MySQL or MariaDB database
