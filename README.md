@@ -1,4 +1,4 @@
-# 🌐 Server Seeker
+# 🌐 ServerPyeeker
 
 > [!NOTE]
 > Languages:  
